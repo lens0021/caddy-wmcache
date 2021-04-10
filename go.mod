@@ -1,4 +1,4 @@
-module github.com/femiwiki/caddy-mwcache
+module github.com/lens0021/caddy-wmcache
 
 go 1.15
 
